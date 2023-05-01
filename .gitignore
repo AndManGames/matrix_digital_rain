@@ -128,5 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#folder
-old
+uninstall_all_packages.txt
+*.mkv
